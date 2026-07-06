@@ -1,1 +1,1 @@
-ignore .jpg files
+*.jpg
